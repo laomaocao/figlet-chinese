@@ -7,4 +7,4 @@ cg.flc:
 2.增加控制字符 "h"
 
 用法：
-figlet -C cg.flc -f gb16fs.flf "~{你好}~"
+figlet -C cg.flc -f gb16fs.flf "\~{你好}\~"
